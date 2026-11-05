@@ -1,0 +1,1 @@
+This work space have consist of python code that helps the beginner to learn python from the scratch and with various real world examples.
